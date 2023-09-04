@@ -6,7 +6,7 @@
 
 Foi elaborado o primeiro site utilizando as estruturas básicas apresentadas, inserindo as tags apresentadas nas aulas.
 
-- <.h1> até <h6>
+- <.h1> até <.h6>
 - <.p> parágrafo
 - <.mark> marcador
 - <.small> é utilizado para reduzir o tamanho da fonte num intervalo definido de um texto
